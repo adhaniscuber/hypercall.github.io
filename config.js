@@ -12,16 +12,9 @@
     };
 
     var CREDENTIALS = {
-        'prod': {
-            'appId': 40718,
-            'authKey': 'AnB-JpA6r4y6RmS',
-            'authSecret': '3O7Sr5Pg4Qjexwn'
-        },
-        'test': {
-            'appId': 39854,
-            'authKey': 'JtensAa9y4AM5Yk',
-            'authSecret': 'AsDFwwwxpr3LN5w'
-        }
+            'appId': 55902,
+            'authKey': 'V-h9dAuRw7ZBqLL',
+            'authSecret': 'H97VctfrqkSq4a5'
     };
 
     var MESSAGES = {
